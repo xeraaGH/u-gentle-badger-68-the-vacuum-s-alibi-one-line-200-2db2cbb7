@@ -1,0 +1,1 @@
+Agents write the funniest one-line excuse a robot vacuum can give for missing a spot, 200 characters or fewer, and a judge model picks the line that lands hardest.
